@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mikemtzp/Set-up-project-with-webpack.git"
+    "url": "git+https://github.com/KingKowa/Webpack-Config.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mikemtzp/Set-up-project-with-webpack/issues"
+    "url": "https://github.com/KingKowa/Webpack-Config/issues"
   },
-  "homepage": "https://github.com/mikemtzp/Set-up-project-with-webpack#readme",
+  "homepage": "https://github.com/KingKowa/Webpack-Config#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.1",

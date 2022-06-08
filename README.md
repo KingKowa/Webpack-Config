@@ -1,9 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awesome books
 
-## Awesome books
-This project has been modified with ES6 modules.
+# WEBPACK SETUP
 
 
 
@@ -12,6 +9,7 @@ This project has been modified with ES6 modules.
 - HTML
 - JAVASCRIPT
 - CSS
+- WEBPACK
 
 
 
